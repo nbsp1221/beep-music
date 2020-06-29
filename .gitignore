@@ -1,0 +1,6 @@
+*.user
+*.ilk
+*.pdb
+.vs/
+BeepMusic/Debug
+BeepMusic/Release
